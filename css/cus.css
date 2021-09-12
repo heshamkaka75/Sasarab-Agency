@@ -1,0 +1,54 @@
+.soffer{
+    font-size: 35px;
+    text-align: center;
+}
+
+.sendmail{
+    background-color: #128f76;
+    padding: 45px;
+    margin: 11px;
+}
+
+.aboutright{
+    text-align: center;
+    
+}
+
+.pabout{
+    text-align: right;
+    
+}
+
+.cont{
+    text-align: center;
+}
+
+.textup{
+margin-bottom: 99px;
+
+}
+.bookformst{
+    border: 5px solid #2c3e50;
+}
+.bookh{
+    text-align: center;
+    margin-top: 10px;
+    color: #2c3e50;
+}
+
+.aboutbgc{
+    background-color: #2c3e50;
+}
+
+.colorbut{
+    background-color: #2c3e50;
+}
+
+.datepos{
+text-align: center;   
+ 
+}
+
+.hightform{
+    height: 60px;
+}
